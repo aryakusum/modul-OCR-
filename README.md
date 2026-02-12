@@ -38,6 +38,7 @@ Buat project Laravel baru dan masuk ke direktorinya.
 ```bash
 composer create-project laravel/laravel modul-ocr
 cd modul-ocr
+composer install
 ```
 
 ### 2. Konfigurasi Database & Environment

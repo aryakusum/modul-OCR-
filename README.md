@@ -511,13 +511,6 @@ Route::post('/ocr/store', [OcrController::class, 'store'])->name('ocr.store');
 
 ---
 
-## E. TUGAS / LATIHAN
 
-1.  Jalankan aplikasi dengan `php artisan serve`.
-2.  Cari 3 jenis foto KTP berbeda (bisa dari Google Images).
-3.  Upload dan amati hasilnya.
-4.  Jika ada kesalahan baca, perbaiki logika Regex di `parseKtp` agar lebih akurat.
-
----
 
 **Selamat Mengerjakan!**
